@@ -56,9 +56,3 @@ A production-ready chat application built with FastAPI, Redis, and PostgreSQL fe
 - PostgreSQL 14+
 - Redis 7+
 
-### Local Development
-
-1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/chat-app.git
-cd chat-app
