@@ -56,3 +56,9 @@ A production-ready chat application built with FastAPI, Redis, and PostgreSQL fe
 - PostgreSQL 14+
 - Redis 7+
 
+
+## 🚀 Deployment
+
+The application is deployed on Render and is publicly accessible.
+
+Base URL: https://chat-app-iwde.onrender.com
